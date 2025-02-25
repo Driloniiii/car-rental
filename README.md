@@ -73,6 +73,16 @@ node app.js
 | GET    | `/api/rental-cars` | Get Rental cars |
 | GET    | `/api/rental-cars?...`| Sort Rental cars |
 
+
+| Parameter         | Type    | Description |
+|--------|--------------------|---------------------------|
+| `price_per_day`  | number  | Filter rentals by the daily rental price. |
+| `year`           | number  | Filter by the car's manufacturing year. |
+| `color`          | string  | Filter by car color (e.g., `black`, `white`). |
+| `steering_type`  | string  | Filter by steering type (`automatic` or `manual`). |
+| `number_of_seats` | number | Filter by the number of seats in the car. |
+
+
 ### 1.Rental Cars 
 ![image (6)](https://github.com/user-attachments/assets/1d4aeff9-98b1-48ca-9d60-93e2e0a59bf2)
 ### 2.Sort Rental Cars 
