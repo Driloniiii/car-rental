@@ -7,7 +7,6 @@ CAR Rental API is a RESTful API built with Node.js, Express.js, and MongoDB to m
 ## Features
 
 - **User Authentication**: Register, login, and access profile details.
-- **Car Management**: Add, update, delete, and list available rental cars.
 - **Filtering & Sorting**: Filter cars based on year, color, steering type, and number of seats, sorted by price.
 - **Security**: Secure authentication with JWT.
 - **MongoDB Integration**: Uses MongoDB for data storage.
