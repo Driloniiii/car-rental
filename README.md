@@ -26,6 +26,7 @@ Ensure you have the following installed:
 
 - Node.js
 - MongoDB
+- Postman 
 
 
 #### Install Dependencies
