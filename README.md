@@ -52,8 +52,8 @@ node app.js
 
 | Method | Endpoint            | Description              |
 |--------|--------------------|--------------------------|
-| POST   | `/api/auth/register` | Register a new user      |
-| POST   | `/api/auth/login`    | Login and get a token    |
+| POST   | `/api/register` | Register a new user      |
+| POST   | `/api/login`    | Login and get a token    |
 | GET    | `/api/auth/my-profile`  | Get the logged-in user's profile after providing token|
 
 ### 1.Register
