@@ -15,7 +15,7 @@ CAR Rental API is a RESTful API built with Node.js, Express.js, and MongoDB to m
 
 - Node.js
 - Express.js
-- MongoDB & Mongoose
+- MongoDB 
 - JWT Authentication
 - Bcrypt for password hashing
 
