@@ -78,6 +78,9 @@ node app.js
 ### 2.Sort Rental Cars 
 ![image (9)](https://github.com/user-attachments/assets/0cd05c29-5f4f-48bb-b287-0c79444452d6)
 ![image (10)](https://github.com/user-attachments/assets/352f2ff7-4728-4b2c-a8f3-f1a26d0d93d6)
+### Data stored in MongoDb
+![image](https://github.com/user-attachments/assets/00a5c640-adbf-47f2-829f-68b6dbbeb3f2)
+
 
 
 
