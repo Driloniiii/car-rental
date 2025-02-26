@@ -54,7 +54,7 @@ node app.js
 |--------|--------------------|--------------------------|
 | POST   | `/api/register` | Register a new user      |
 | POST   | `/api/login`    | Login and get a token    |
-| GET    | `/api/auth/my-profile`  | Get the logged-in user's profile after providing token|
+| GET    | `/api/my-profile`  | Get the logged-in user's profile after providing token|
 
 ### 1.Register
 ![image (2)](https://github.com/user-attachments/assets/14af62a3-8f29-43a5-bbd0-59f4cb6eb7e6)
